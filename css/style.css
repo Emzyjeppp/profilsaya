@@ -146,3 +146,11 @@ img {
     height: auto; /* Tinggi otomatis sesuai aspek rasio video */
     display: block; /* Menghapus jarak ekstra dari elemen inline */
 }
+
+.videomendaki {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    margin: 0 auto !important;
+    margin-bottom: 0;
+}
